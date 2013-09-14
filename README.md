@@ -7,7 +7,7 @@ A Simple Umpire Pitch Count indicator app for Pebble Smart Watches
 License
 -------
 
-The code uses the MIT license. See the LICENSE file for details.
+The code uses the MIT license. See the ![LICENSE](LICENSE) file for details.
 
 Making it work
 --------------
